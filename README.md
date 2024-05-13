@@ -1,4 +1,6 @@
-# EigenVector and Values,The Dynamic Duo to pay attention, if you are into AI ML and Analytics
+# Eigen Vector Finder
+
+## EigenVector and Values,The Dynamic Duo to pay attention, if you are into AI ML and Analytics
 
 When getting started with linear algebra, eigenvectors and eigenvalues remain shrouded in mystique for the uninitiated. While their behaviors govern the inner workings of matrix transformations, comprehending these concepts requires delving beneath surface explanations. However, a rigorous elucidation brings their mathematical elegance to light. 
 
@@ -9,7 +11,7 @@ Together, the eigenvector-eigenvalue pair divulges intrinsic qualities of linear
 While initiation demands overcoming abstraction, rigorous treatment unveils elegance. Eigenvectors and eigenvalues, far from opaque, embody fundamental constructs with impacts across mathematics. Comprehension rewards application in physics, engineering and beyond.
 Eigenvectors and eigenvalues, important foundations of linear algebra, embody fundamental constructs essential for understanding the essence of mathematical operations. Although a comprehensive examination of their intricacies awaits, a preliminary understanding of their conceptual significance lays the groundwork.
 
-# Conclusion
+## Conclusion
 In this article, we have explored the critical concepts of eigenvectors and eigenvalues through both theoretical and practical lenses. Through mathematical explanations of these quantities, their intuitive meanings as "natural behaviors" and "scales of change" have been illuminated. Their prevalence across scientific fields also underscores their fundamental descriptive power for linear systems.
 
 The presented PCA example utilizing real-world penguin data served to translate the abstract into concrete application. Calculating the covariance matrix first equipped us to meaningfully interpret variances and relationships between input dimensions. Subsequent eigendecomposition then revealed the primary trends underlying the multidimensional dataset. Together, these steps achieved dimensionality reduction via an elegant, optimized framework - one with numerous analytics uses. 
