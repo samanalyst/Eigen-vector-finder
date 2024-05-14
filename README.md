@@ -11,6 +11,12 @@ Together, the eigenvector-eigenvalue pair divulges intrinsic qualities of linear
 While initiation demands overcoming abstraction, rigorous treatment unveils elegance. Eigenvectors and eigenvalues, far from opaque, embody fundamental constructs with impacts across mathematics. Comprehension rewards application in physics, engineering and beyond.
 Eigenvectors and eigenvalues, important foundations of linear algebra, embody fundamental constructs essential for understanding the essence of mathematical operations. Although a comprehensive examination of their intricacies awaits, a preliminary understanding of their conceptual significance lays the groundwork.
 
+## Table of Contents
+- Installation
+- Usage
+- Contributing
+- Credits
+
 ## Conclusion
 In this article, we have explored the critical concepts of eigenvectors and eigenvalues through both theoretical and practical lenses. Through mathematical explanations of these quantities, their intuitive meanings as "natural behaviors" and "scales of change" have been illuminated. Their prevalence across scientific fields also underscores their fundamental descriptive power for linear systems.
 
