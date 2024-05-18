@@ -20,6 +20,13 @@ Eigenvectors and eigenvalues, important foundations of linear algebra, embody fu
 ## Installation
 Clone this repository:
 git clone https://github.com/samanalyst/Eigen-vector-finder.git
+## Contributing
+Contributions are welcome! Please follow these guidelines:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Commit your changes.
+- Submit a pull request.
 
 ## Conclusion
 In this article, we have explored the critical concepts of eigenvectors and eigenvalues through both theoretical and practical lenses. Through mathematical explanations of these quantities, their intuitive meanings as "natural behaviors" and "scales of change" have been illuminated. Their prevalence across scientific fields also underscores their fundamental descriptive power for linear systems.
